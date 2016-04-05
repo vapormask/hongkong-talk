@@ -1,0 +1,35 @@
+
+adoption curve
+
+suite of tools
+
+  - I've started an on-blockchain organization
+  - we're doing a crowd-fund where you all get shares
+  - we make decisions on futarchy, market based hivemind
+  - wouldnt you like to participate?
+  
+  ### Problem: "Just download this browser..."
+  mist:
+    - blank slate, can be tailored to new concerns
+
+    - browser-browser
+      - status: 75%
+      - zero-install
+      - complex
+      - lots of side effects
+      - hard to test
+
+  ### Problem: "Dapps doing their own key mgmt"
+  - good for adoption
+  - encourages bad practice of exposing your keys
+  - pain to manage
+
+    - cross domain key storage service
+      - status: research + design
+      - zero-install
+      - dapps devs can opt-in
+      - stored on users computer
+      - potentially backed up
+
+  ### Problem: "browser in browser is weird"
+  - plugin
